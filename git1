@@ -1,7 +1,7 @@
 commands 
 mkdir 
 git init
-git status
+git time
 
 creating files 
 add files to staging area
