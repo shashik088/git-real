@@ -1,0 +1,8 @@
+commands 
+mkdir 
+git init
+git status
+
+creating files 
+add files to staging area
+commit changes - git commit[- git add <>[Dfilename[>[A[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
