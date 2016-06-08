@@ -1,5 +1,5 @@
 commands 
-mkdir 
+make directory
 git init
 git time
 
